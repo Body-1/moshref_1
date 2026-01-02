@@ -1,0 +1,5 @@
+{
+  "name": "Physics Symbol Converter",
+  "description": "A specialized editor to convert numeric physics codes into symbols and export as PDF.",
+  "requestFramePermissions": []
+}
